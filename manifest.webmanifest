@@ -9,7 +9,7 @@
   "scope": "/",
   "start_url": "/",
   "background_color": "#fff",
-  "theme_color": "#6495ED",
+  "theme_color": "#ccc",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
